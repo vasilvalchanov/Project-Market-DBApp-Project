@@ -10,6 +10,6 @@
 
 - [x] Problem #5 – JSON Reports in MongoDB
 
-- [x] Problem #6 – Load Expense Data from XML
+- Problem #6 – Load Expense Data from XML
 
-- [x] Problem #7 – Load Data to MySQL
+- Problem #7 – Load Data to MySQL
