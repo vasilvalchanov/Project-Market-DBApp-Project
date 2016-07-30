@@ -1,0 +1,75 @@
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\MarketSystem.Reports.dll.config
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\MarketSystem.Reports.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\MarketSystem.Reports.pdb
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\EntityFramework.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\GemBox.Spreadsheet.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\Ionic.Zip.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\itextsharp.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\MarketSystem.Data.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\MongoDB.Bson.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\MongoDB.Driver.Core.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\MongoDB.Driver.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\MsSqlDatabase.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\MarketSystem.Data.pdb
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\MsSqlDatabase.pdb
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\EntityFramework.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\EntityFramework.SqlServer.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\GemBox.Spreadsheet.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\Ionic.Zip.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\itextsharp.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\MongoDB.Bson.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\bin\Debug\MongoDB.Driver.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\obj\Debug\MarketSystem.Reports.csprojResolveAssemblyReference.cache
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\obj\Debug\MarketSystem.Reports.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Reports\obj\Debug\MarketSystem.Reports.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MarketSystem.Reports.dll.config
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MarketSystem.Reports.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MarketSystem.Reports.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\EntityFramework.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\GemBox.Spreadsheet.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\Ionic.Zip.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\itextsharp.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MarketSystem.Data.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MongoDB.Bson.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MongoDB.Driver.Core.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MongoDB.Driver.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MsSqlDatabase.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MarketSystem.Data.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MsSqlDatabase.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\EntityFramework.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\EntityFramework.SqlServer.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\GemBox.Spreadsheet.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\Ionic.Zip.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\itextsharp.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MongoDB.Bson.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MongoDB.Driver.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\obj\Debug\MarketSystem.Reports.csprojResolveAssemblyReference.cache
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\obj\Debug\MarketSystem.Reports.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Reports\obj\Debug\MarketSystem.Reports.pdb
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\obj\Debug\MarketSystem.Reports.csprojResolveAssemblyReference.cache
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\obj\Debug\MarketSystem.Reports.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\obj\Debug\MarketSystem.Reports.pdb
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MarketSystem.Reports.dll.config
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MarketSystem.Reports.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MarketSystem.Reports.pdb
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\EntityFramework.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\EntityFramework.SqlServer.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\GemBox.Spreadsheet.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\Ionic.Zip.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\itextsharp.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MarketSystem.Data.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MongoDB.Bson.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MongoDB.Driver.Core.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MongoDB.Driver.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MsSqlDatabase.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MarketSystem.Data.pdb
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MsSqlDatabase.pdb
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\EntityFramework.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\EntityFramework.SqlServer.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\GemBox.Spreadsheet.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\Ionic.Zip.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\itextsharp.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MongoDB.Bson.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Reports\bin\Debug\MongoDB.Driver.xml

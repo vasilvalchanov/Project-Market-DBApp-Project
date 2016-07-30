@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MarketSystemOracleDatabaseStoreContainer" CdmEntityContainer="OracleContext">
+    <EntitySetMapping Name="MEASURES">
+      <EntityTypeMapping TypeName="MarketSystem.OracleDatabase.MEASURE">
+        <MappingFragment StoreEntitySet="MEASURES">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PRODUCTS">
+      <EntityTypeMapping TypeName="MarketSystem.OracleDatabase.PRODUCT">
+        <MappingFragment StoreEntitySet="PRODUCTS">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="VENDORID" ColumnName="VENDORID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="MEASUREID" ColumnName="MEASUREID" />
+          <ScalarProperty Name="TYPEID" ColumnName="TYPEID" />
+          <ScalarProperty Name="PRICE" ColumnName="PRICE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PRODUCTSTYPES">
+      <EntityTypeMapping TypeName="MarketSystem.OracleDatabase.PRODUCTSTYPE">
+        <MappingFragment StoreEntitySet="PRODUCTSTYPES">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VENDORS">
+      <EntityTypeMapping TypeName="MarketSystem.OracleDatabase.VENDOR">
+        <MappingFragment StoreEntitySet="VENDORS">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SUPERMARKETS">
+      <EntityTypeMapping TypeName="MarketSystem.OracleDatabase.SUPERMARKET">
+        <MappingFragment StoreEntitySet="SUPERMARKETS">
+          <ScalarProperty Name="TOWNID" ColumnName="TOWNID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TOWNS">
+      <EntityTypeMapping TypeName="MarketSystem.OracleDatabase.TOWN">
+        <MappingFragment StoreEntitySet="TOWNS">
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

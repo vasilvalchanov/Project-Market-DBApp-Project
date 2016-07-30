@@ -1,0 +1,48 @@
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\OracleDatabase\bin\Debug\OracleDatabase.dll.config
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\OracleDatabase\bin\Debug\OracleDatabase.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\OracleDatabase\bin\Debug\OracleDatabase.pdb
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\OracleDatabase\bin\Debug\EntityFramework.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\OracleDatabase\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\OracleDatabase\bin\Debug\Ionic.Zip.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\OracleDatabase\bin\Debug\MarketSystem.Data.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\OracleDatabase\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\OracleDatabase\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\OracleDatabase\bin\Debug\MarketSystem.Data.pdb
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\OracleDatabase\bin\Debug\EntityFramework.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\OracleDatabase\bin\Debug\EntityFramework.SqlServer.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\OracleDatabase\bin\Debug\Ionic.Zip.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\OracleDatabase\obj\Debug\OracleDatabase.csprojResolveAssemblyReference.cache
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\OracleDatabase\obj\Debug\OracleDatabase.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\OracleDatabase\obj\Debug\OracleDatabase.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\OracleDatabase\bin\Debug\OracleDatabase.dll.config
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\OracleDatabase\bin\Debug\OracleDatabase.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\OracleDatabase\bin\Debug\OracleDatabase.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\OracleDatabase\bin\Debug\EntityFramework.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\OracleDatabase\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\OracleDatabase\bin\Debug\Ionic.Zip.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\OracleDatabase\bin\Debug\MarketSystem.Data.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\OracleDatabase\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\OracleDatabase\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\OracleDatabase\bin\Debug\MarketSystem.Data.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\OracleDatabase\bin\Debug\EntityFramework.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\OracleDatabase\bin\Debug\EntityFramework.SqlServer.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\OracleDatabase\bin\Debug\Ionic.Zip.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\OracleDatabase\obj\Debug\OracleDatabase.csprojResolveAssemblyReference.cache
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\OracleDatabase\obj\Debug\OracleDatabase.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\OracleDatabase\obj\Debug\OracleDatabase.pdb
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\OracleDatabase\bin\Debug\OracleDatabase.dll.config
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\OracleDatabase\bin\Debug\OracleDatabase.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\OracleDatabase\bin\Debug\OracleDatabase.pdb
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\OracleDatabase\bin\Debug\EntityFramework.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\OracleDatabase\bin\Debug\EntityFramework.SqlServer.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\OracleDatabase\bin\Debug\Ionic.Zip.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\OracleDatabase\bin\Debug\MarketSystem.Data.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\OracleDatabase\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\OracleDatabase\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\OracleDatabase\bin\Debug\MarketSystem.Data.pdb
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\OracleDatabase\bin\Debug\EntityFramework.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\OracleDatabase\bin\Debug\EntityFramework.SqlServer.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\OracleDatabase\bin\Debug\Ionic.Zip.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\OracleDatabase\obj\Debug\OracleDatabase.csprojResolveAssemblyReference.cache
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\OracleDatabase\obj\Debug\OracleDatabase.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\OracleDatabase\obj\Debug\OracleDatabase.pdb

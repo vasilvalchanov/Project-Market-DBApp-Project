@@ -1,0 +1,64 @@
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\MySqlDatabase.dll.config
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\MySqlDatabase.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\MySqlDatabase.pdb
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\EntityFramework.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\MarketSystem.Data.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\MySql.Data.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\MySql.Data.Entity.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\MySql.Web.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\SqLiteDatabase.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\WebMatrix.WebData.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\System.Web.WebPages.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\WebMatrix.Data.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\System.Web.Helpers.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\System.Web.Razor.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\MarketSystem.Data.pdb
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\SqLiteDatabase.pdb
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\EntityFramework.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\EntityFramework.SqlServer.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\WebMatrix.WebData.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\System.Web.WebPages.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\WebMatrix.Data.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\System.Web.Helpers.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\System.Web.Razor.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\obj\Debug\MySqlDatabase.csprojResolveAssemblyReference.cache
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\obj\Debug\MySqlDatabase.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MySqlDatabase\obj\Debug\MySqlDatabase.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\MySqlDatabase.dll.config
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\MySqlDatabase.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\MySqlDatabase.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\EntityFramework.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\MarketSystem.Data.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\MarketSystem.Data.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\EntityFramework.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\EntityFramework.SqlServer.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MySqlDatabase\obj\Debug\MySqlDatabase.csprojResolveAssemblyReference.cache
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MySqlDatabase\obj\Debug\MySqlDatabase.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MySqlDatabase\obj\Debug\MySqlDatabase.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\MySql.Data.Entity.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\MySql.Data.Entity.EF6.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\MySqlDatabase.dll.config
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\MySqlDatabase.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\MySqlDatabase.pdb
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\EntityFramework.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\EntityFramework.SqlServer.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\MarketSystem.Data.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\MySql.Data.Entity.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\MySql.Data.Entity.EF6.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\MarketSystem.Data.pdb
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\EntityFramework.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\EntityFramework.SqlServer.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MySqlDatabase\bin\Debug\MySql.Data.Entity.EF6.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MySqlDatabase\obj\Debug\MySqlDatabase.csprojResolveAssemblyReference.cache
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MySqlDatabase\obj\Debug\MySqlDatabase.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MySqlDatabase\obj\Debug\MySqlDatabase.pdb

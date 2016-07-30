@@ -1,0 +1,147 @@
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.ConsoleClient.exe.config
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.ConsoleClient.exe
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.ConsoleClient.pdb
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\GemBox.Spreadsheet.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\Ionic.Zip.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.Data.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.Engine.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MsSqlDatabase.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MySql.Data.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MySql.Data.Entity.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MySql.Web.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MySqlDatabase.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\OracleDatabase.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Data.SQLite.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.Reports.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\SqLiteDatabase.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\WebMatrix.WebData.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Web.WebPages.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MongoDB.Driver.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MongoDB.Bson.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\itextsharp.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\WebMatrix.Data.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Web.Helpers.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Web.Razor.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MongoDB.Driver.Core.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.Engine.pdb
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.Data.pdb
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MsSqlDatabase.pdb
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MySqlDatabase.pdb
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\OracleDatabase.pdb
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\GemBox.Spreadsheet.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\Ionic.Zip.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Data.SQLite.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.Reports.pdb
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\SqLiteDatabase.pdb
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\WebMatrix.WebData.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Web.WebPages.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MongoDB.Driver.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MongoDB.Bson.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\itextsharp.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\WebMatrix.Data.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Web.Helpers.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Web.Razor.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\obj\Debug\MarketSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\obj\Debug\MarketSystem.ConsoleClient.exe
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.ConsoleClient\obj\Debug\MarketSystem.ConsoleClient.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.ConsoleClient.exe.config
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\obj\Debug\MarketSystem.ConsoleClient.exe
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\obj\Debug\MarketSystem.ConsoleClient.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.ConsoleClient.exe
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.ConsoleClient.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\GemBox.Spreadsheet.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\Ionic.Zip.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.Data.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.Engine.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MsSqlDatabase.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MySqlDatabase.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\OracleDatabase.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Data.SQLite.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.Reports.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MongoDB.Driver.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MongoDB.Bson.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\itextsharp.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MongoDB.Driver.Core.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.Engine.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.Data.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MsSqlDatabase.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MySqlDatabase.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\OracleDatabase.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\GemBox.Spreadsheet.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\Ionic.Zip.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Data.SQLite.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.Reports.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MongoDB.Driver.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MongoDB.Bson.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\itextsharp.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\obj\Debug\MarketSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MySql.Data.Entity.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.ConsoleClient\obj\Debug\MarketSystem.ConsoleClient.csproj.MarketSystem.ConsoleClient.exe.config
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.ConsoleClient.exe.config
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\obj\Debug\MarketSystem.ConsoleClient.exe
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\obj\Debug\MarketSystem.ConsoleClient.pdb
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.ConsoleClient.exe
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.ConsoleClient.pdb
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\GemBox.Spreadsheet.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\Ionic.Zip.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.Data.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.Engine.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MsSqlDatabase.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MySql.Data.Entity.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MySql.Data.Entity.EF6.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MySqlDatabase.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\OracleDatabase.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Data.SQLite.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Data.SQLite.EF6.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Data.SQLite.Linq.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.Reports.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\itextsharp.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MongoDB.Driver.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MongoDB.Bson.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MongoDB.Driver.Core.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.Engine.pdb
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.Data.pdb
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MsSqlDatabase.pdb
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MySqlDatabase.pdb
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\OracleDatabase.pdb
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\GemBox.Spreadsheet.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\Ionic.Zip.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MySql.Data.Entity.EF6.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\System.Data.SQLite.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MarketSystem.Reports.pdb
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\itextsharp.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MongoDB.Driver.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\bin\Debug\MongoDB.Bson.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\obj\Debug\MarketSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.ConsoleClient\obj\Debug\MarketSystem.ConsoleClient.csproj.MarketSystem.ConsoleClient.exe.config

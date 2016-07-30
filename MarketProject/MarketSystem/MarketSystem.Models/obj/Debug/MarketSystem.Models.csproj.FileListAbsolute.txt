@@ -1,0 +1,34 @@
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Models\bin\Debug\MarketSystem.Data.dll.config
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Models\bin\Debug\MarketSystem.Data.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Models\bin\Debug\MarketSystem.Data.pdb
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Models\bin\Debug\EntityFramework.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Models\bin\Debug\Ionic.Zip.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Models\bin\Debug\EntityFramework.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Models\bin\Debug\Ionic.Zip.xml
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Models\obj\Debug\MarketSystem.Data.dll
+D:\Development\Teamworks good students\Teamwork Database app course\Team-Diosma-master\MarketSystem\MarketSystem.Models\obj\Debug\MarketSystem.Data.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Models\bin\Debug\MarketSystem.Data.dll.config
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Models\bin\Debug\MarketSystem.Data.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Models\bin\Debug\MarketSystem.Data.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Models\bin\Debug\EntityFramework.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Models\bin\Debug\Ionic.Zip.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Models\bin\Debug\EntityFramework.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Models\bin\Debug\Ionic.Zip.xml
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Models\obj\Debug\MarketSystem.Data.dll
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Models\obj\Debug\MarketSystem.Data.pdb
+D:\Development\MyDBAppsProject\MarketProject\MarketSystem\MarketSystem.Models\obj\Debug\MarketSystem.Models.csprojResolveAssemblyReference.cache
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Models\bin\Debug\MarketSystem.Data.dll.config
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Models\bin\Debug\MarketSystem.Data.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Models\bin\Debug\MarketSystem.Data.pdb
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Models\bin\Debug\EntityFramework.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Models\bin\Debug\EntityFramework.SqlServer.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Models\bin\Debug\Ionic.Zip.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Models\bin\Debug\EntityFramework.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Models\bin\Debug\EntityFramework.SqlServer.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Models\bin\Debug\Ionic.Zip.xml
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Models\obj\Debug\MarketSystem.Data.dll
+G:\DatabaseApplications\DBAppsProject-Market\MarketProject\MarketSystem\MarketSystem.Models\obj\Debug\MarketSystem.Data.pdb
